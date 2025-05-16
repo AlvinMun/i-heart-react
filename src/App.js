@@ -27,5 +27,5 @@ function App() {
     </> //fragment element 
   );
 }
-//hello world
+
 export default App;
